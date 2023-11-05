@@ -28,7 +28,7 @@ const StudentSays = () => {
             }
           />
         </div>
-        <button className="bg-[#3b3abe] text-white px-6 py-3 rounded-md mt-[10rem] z-50">
+        <button className="bg-[#3b3abe] text-white px-6 py-3 rounded-md lg:mt-[10rem] mt-[15rem] z-50 ">
           More About Us
         </button>
       </div>

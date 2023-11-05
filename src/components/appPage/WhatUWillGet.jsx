@@ -15,6 +15,7 @@ const WhatUWillGet = () => {
             }
             title={"12 Weeks Online Coaching "}
             btnText={"I Want This"}
+            src={"./book.jpeg"}
           />
           <WhatUWillGetUsCard
             text={
@@ -22,6 +23,7 @@ const WhatUWillGet = () => {
             }
             title={"Lifetime Access  "}
             btnText={"I Need This"}
+            src={"./rover.jpg"}
           />
           <WhatUWillGetUsCard
             text={
@@ -29,6 +31,7 @@ const WhatUWillGet = () => {
             }
             title={"Build content strategy "}
             btnText={"Let Me Join"}
+            src={"./rail.jpg"}
           />
         </div>
       </div>

@@ -2,7 +2,7 @@ import React from "react";
 
 const StudentSaysCard = ({ name, text }) => {
   return (
-    <div className="flex items-center flex-col lg:w-[25vw] w-[75vw] h-[400px] relative mt-5">
+    <div className="flex items-center flex-col lg:w-[25vw] w-[75vw] h-[400px] relative mt-[15rem] lg:mt-1.5">
       <div className="w-[80px] h-[80px] overflow-hidden flex justify-center items-center rounded-full z-50">
         <img src="./placeholder.jpg" alt="" />
       </div>
